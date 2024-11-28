@@ -1,0 +1,6 @@
+@DemoEmailVerificationWithPaperCut_HostAddress = http://localhost:5221
+
+GET {{DemoEmailVerificationWithPaperCut_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
